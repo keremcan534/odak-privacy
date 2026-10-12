@@ -13,3 +13,7 @@ Privacy policy for **Word Association Solitaire** (com.keremcan534.wordsolitaire
 ## Loud Alarm
 
 Privacy policy for **Heavy Sleeper Loud Alarm Clock** (com.keremcan534.loudalarm): https://keremcan534.github.io/odak-privacy/loud-alarm/
+
+## Draw & Guess
+
+Privacy policy for **Draw & Guess: Drawing Games** (com.keremcan534.drawguess): https://keremcan534.github.io/odak-privacy/draw-guess/
