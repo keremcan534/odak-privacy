@@ -17,3 +17,7 @@ Privacy policy for **Heavy Sleeper Loud Alarm Clock** (com.keremcan534.loudalarm
 ## Draw & Guess
 
 Privacy policy for **Draw & Guess: Drawing Games** (com.keremcan534.drawguess): https://keremcan534.github.io/odak-privacy/draw-guess/
+
+## Toy Race
+
+Privacy policy for **Toy Race: Top-Down Car Racing** (com.keremcan534.toyrace): https://keremcan534.github.io/odak-privacy/toy-race/
