@@ -9,3 +9,7 @@ Contact: blackbluestudios41@gmail.com
 ## Word Association Solitaire
 
 Privacy policy for **Word Association Solitaire** (com.keremcan534.wordsolitaire): https://keremcan534.github.io/odak-privacy/word-solitaire/
+
+## Loud Alarm
+
+Privacy policy for **Heavy Sleeper Loud Alarm Clock** (com.keremcan534.loudalarm): https://keremcan534.github.io/odak-privacy/loud-alarm/
