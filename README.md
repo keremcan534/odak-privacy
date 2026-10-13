@@ -29,3 +29,7 @@ Privacy policy for **Countdown Widget: Days Until** (com.keremcan534.countdown):
 ## Gem Art
 
 Privacy policy for **Gem Art: Color by Number Jewels & Gems** (com.keremcan534.gemart): https://keremcan534.github.io/odak-privacy/gem-art/
+
+## Yarn Unravel
+
+Privacy policy for **Yarn Unravel: Puzzle Games** (com.keremcan534.yarnunravel): https://keremcan534.github.io/odak-privacy/yarn-unravel/
