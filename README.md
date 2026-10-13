@@ -21,3 +21,7 @@ Privacy policy for **Draw & Guess: Drawing Games** (com.keremcan534.drawguess): 
 ## Toy Race
 
 Privacy policy for **Toy Race: Top-Down Car Racing** (com.keremcan534.toyrace): https://keremcan534.github.io/odak-privacy/toy-race/
+
+## Countdown Widget
+
+Privacy policy for **Countdown Widget: Days Until** (com.keremcan534.countdown): https://keremcan534.github.io/odak-privacy/countdown-widget/
