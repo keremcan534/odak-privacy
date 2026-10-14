@@ -33,3 +33,7 @@ Privacy policy for **Gem Art: Color by Number Jewels & Gems** (com.keremcan534.g
 ## Yarn Unravel
 
 Privacy policy for **Yarn Unravel: Puzzle Games** (com.keremcan534.yarnunravel): https://keremcan534.github.io/odak-privacy/yarn-unravel/
+
+## ASL Alphabet
+
+Privacy policy for **Sign Language ABC: Learn ASL** (com.keremcan534.aslalphabet): https://keremcan534.github.io/odak-privacy/asl-alphabet/
