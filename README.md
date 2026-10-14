@@ -41,3 +41,7 @@ Privacy policy for **Sign Language ABC: Learn ASL** (com.keremcan534.aslalphabet
 ## Bubble Level
 
 Privacy policy for **Bubble Level: Spirit Level** (com.keremcan534.bubblelevel): https://keremcan534.github.io/odak-privacy/bubble-level/
+
+## Bus Jam
+
+Privacy policy for **Bus Jam: Parking Puzzle Games** (com.keremcan534.busjam): https://keremcan534.github.io/odak-privacy/bus-jam/
