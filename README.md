@@ -37,3 +37,7 @@ Privacy policy for **Yarn Unravel: Puzzle Games** (com.keremcan534.yarnunravel):
 ## ASL Alphabet
 
 Privacy policy for **Sign Language ABC: Learn ASL** (com.keremcan534.aslalphabet): https://keremcan534.github.io/odak-privacy/asl-alphabet/
+
+## Bubble Level
+
+Privacy policy for **Bubble Level: Spirit Level** (com.keremcan534.bubblelevel): https://keremcan534.github.io/odak-privacy/bubble-level/
