@@ -49,3 +49,7 @@ Privacy policy for **Bus Jam: Parking Puzzle Games** (com.keremcan534.busjam): h
 ## Jigsaw Cards
 
 Privacy policy for **Jigsaw Card Games: Art Puzzle** (com.keremcan534.jigsawcards): https://keremcan534.github.io/odak-privacy/jigsaw-cards/
+
+## Pixel Maker
+
+Privacy policy for **Pixel Art Maker: Draw Pixels** (com.keremcan534.pixelmaker): https://keremcan534.github.io/odak-privacy/pixel-maker/
