@@ -45,3 +45,7 @@ Privacy policy for **Bubble Level: Spirit Level** (com.keremcan534.bubblelevel):
 ## Bus Jam
 
 Privacy policy for **Bus Jam: Parking Puzzle Games** (com.keremcan534.busjam): https://keremcan534.github.io/odak-privacy/bus-jam/
+
+## Jigsaw Cards
+
+Privacy policy for **Jigsaw Card Games: Art Puzzle** (com.keremcan534.jigsawcards): https://keremcan534.github.io/odak-privacy/jigsaw-cards/
