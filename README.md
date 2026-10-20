@@ -53,3 +53,7 @@ Privacy policy for **Jigsaw Card Games: Art Puzzle** (com.keremcan534.jigsawcard
 ## Pixel Maker
 
 Privacy policy for **Pixel Art Maker: Draw Pixels** (com.keremcan534.pixelmaker): https://keremcan534.github.io/odak-privacy/pixel-maker/
+
+## Arrow Puzzle
+
+Privacy policy for **Arrow Puzzle: Slide Them Out** (com.keremcan534.arrowpuzzle): https://keremcan534.github.io/odak-privacy/arrow-puzzle/
