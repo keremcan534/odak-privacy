@@ -13,6 +13,7 @@
   h2 { font-size: 20px; margin: 32px 0 8px; color: var(--accent); }
   h3 { font-size: 16px; margin: 20px 0 4px; }
   p, li { color: var(--muted); }
+  a { color: var(--accent); }
   section { background: var(--card); border-radius: 16px; padding: 4px 22px 18px; margin-top: 20px; }
   .meta { color: var(--muted); font-size: 14px; }
   nav a { color: var(--accent); margin-right: 14px; }
@@ -22,19 +23,34 @@
 <main>
   <h1>Loud Alarm</h1>
   <p class="meta">Heavy Sleeper Loud Alarm Clock · Güçlü Alarm · package com.keremcan534.loudalarm</p>
-  <p class="meta">BlackBlue Studios · Effective date / Yürürlük tarihi: 12 October 2026 · <nav style="display:inline"><a href="#en">English</a><a href="#tr">Türkçe</a></nav></p>
+  <p class="meta">BlackBlue Studios · Effective date / Yürürlük tarihi: 24 October 2026 · <nav style="display:inline"><a href="#en">English</a><a href="#tr">Türkçe</a></nav></p>
 
   <section id="en" lang="en">
     <h2>Privacy Policy</h2>
     <h3>Summary</h3>
-    <p>This app does not collect, transmit or share any personal data. It has no account, no advertising, no analytics and no tracking. It does not have the internet permission, so it cannot connect to the internet.</p>
+    <p>We (BlackBlue Studios) do not collect, receive or store any personal data. The app has no account and no analytics of its own. Your alarms work offline and stay on your device. The app shows ads provided by Google AdMob; AdMob is a third-party service that collects some data as described below.</p>
     <h3>Data stored on your device</h3>
     <p>Your alarms (times, repeat days, labels and their settings) and your app settings are stored only in the app's storage on your device, so the alarms can ring, including after a restart. We cannot see or access this data. Uninstalling the app or clearing its data removes everything.</p>
     <p>If Android's own backup is turned on for your device, Android may include the app's data in your device backup to your Google account. That backup is managed by Android and your Google account; we have no access to it.</p>
     <h3>Your own alarm sound</h3>
     <p>If you choose your own music as an alarm sound, you pick the file in Android's file picker and the app gets permission to read that one file. The app stores only the file's address and name, plays it as your alarm sound, and never copies or uploads it.</p>
+    <h3>Advertising (Google AdMob)</h3>
+    <p>The app shows a full-screen ad now and then while you use it. These ads are served by Google AdMob (Google LLC / Google Ireland Limited). To show, measure and protect ads, the Google Mobile Ads SDK may collect and share with Google:</p>
+    <ul>
+      <li>device and advertising identifiers (the Android advertising ID, an app set ID);</li>
+      <li>approximate location derived from your IP address;</li>
+      <li>device and app information (for example device model, Android version, language and app version);</li>
+      <li>information about your interactions with ads (for example ad views and taps);</li>
+      <li>diagnostic information (for example crash and performance logs).</li>
+    </ul>
+    <p>Google processes this data under its own policy: <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a>. We do not receive this data.</p>
+    <h3>Your choices</h3>
+    <p>Where the law requires it (for example in the European Economic Area, the UK and Switzerland) the app asks for your consent through Google's consent form before ads are requested, and you can change your choice at any time under Settings → Ad privacy choices (this row appears where the consent form applies).</p>
+    <p>You can reset or delete your advertising ID, or opt out of personalized ads, in your device's settings: open Settings → Google → All services → Ads (on some devices Settings → Privacy → Ads) and choose Reset advertising ID or Delete advertising ID. Once you delete it, apps and ad SDKs no longer receive an advertising ID from your device.</p>
     <h3>Permissions</h3>
     <ul>
+      <li><strong>Internet and network state</strong>: used only by the ad SDK to load ads.</li>
+      <li><strong>Advertising ID</strong>: used by the ad SDK for ads (see above).</li>
       <li><strong>Notifications</strong> and <strong>full-screen notifications</strong>: to show the ringing alarm and open the alarm screen over the lock screen.</li>
       <li><strong>Exact alarms</strong> (USE_EXACT_ALARM, SCHEDULE_EXACT_ALARM on Android 12): to ring at the exact minute you set.</li>
       <li><strong>Foreground service</strong> and <strong>keep awake</strong> (wake lock): to keep the alarm ringing until you turn it off.</li>
@@ -44,7 +60,7 @@
       <li><strong>Motion sensor</strong>: the shake mission counts shakes while it is on screen. Nothing is stored or sent.</li>
     </ul>
     <h3>Children</h3>
-    <p>This app is not directed at children under 13. It collects no personal information from anyone, including children.</p>
+    <p>The app is not directed at children under 13.</p>
     <h3>Changes</h3>
     <p>If this policy changes, the new version will be published on this page with a new effective date.</p>
     <h3>Contact</h3>
@@ -54,14 +70,29 @@
   <section id="tr" lang="tr">
     <h2>Gizlilik Politikası</h2>
     <h3>Özet</h3>
-    <p>Bu uygulama hiçbir kişisel veri toplamaz, iletmez veya paylaşmaz. Hesap, reklam, analiz ve takip yoktur. Uygulamanın internet izni yoktur, bu yüzden internete bağlanamaz.</p>
+    <p>Biz (BlackBlue Studios) hiçbir kişisel veri toplamayız, almayız veya saklamayız. Uygulamada hesap ve kendi analiz sistemimiz yoktur. Alarmların internetsiz çalışır ve cihazında kalır. Uygulama Google AdMob tarafından sağlanan reklamlar gösterir; AdMob, aşağıda anlatıldığı gibi bazı veriler toplayan üçüncü taraf bir hizmettir.</p>
     <h3>Cihazında saklanan veriler</h3>
     <p>Alarmların (saatleri, tekrar günleri, etiketleri ve ayarları) ve uygulama ayarların, alarmların çalabilmesi için (yeniden başlatmadan sonra da) yalnızca cihazındaki uygulama depolamasında saklanır. Bu verileri göremeyiz ve onlara erişemeyiz. Uygulamayı kaldırmak veya verilerini temizlemek her şeyi siler.</p>
     <p>Cihazında Android'in kendi yedeklemesi açıksa Android, uygulamanın verilerini Google hesabındaki cihaz yedeğine dahil edebilir. Bu yedeği Android ve Google hesabın yönetir; bizim ona erişimimiz yoktur.</p>
     <h3>Kendi alarm sesin</h3>
     <p>Alarm sesi olarak kendi müziğini seçersen dosyayı Android'in dosya seçicisinde sen seçersin ve uygulama yalnızca o dosyayı okuma izni alır. Uygulama yalnızca dosyanın adresini ve adını saklar, onu alarm sesin olarak çalar; asla kopyalamaz veya yüklemez.</p>
+    <h3>Reklamlar (Google AdMob)</h3>
+    <p>Uygulama, sen kullanırken ara sıra tam ekran bir reklam gösterir. Bu reklamları Google AdMob (Google LLC / Google Ireland Limited) sunar. Reklamları göstermek, ölçmek ve korumak için Google Mobile Ads SDK şunları toplayıp Google ile paylaşabilir:</p>
+    <ul>
+      <li>cihaz ve reklam kimlikleri (Android reklam kimliği, uygulama grubu kimliği);</li>
+      <li>IP adresinden çıkarılan yaklaşık konum;</li>
+      <li>cihaz ve uygulama bilgileri (örneğin cihaz modeli, Android sürümü, dil ve uygulama sürümü);</li>
+      <li>reklamlarla etkileşimlerin (örneğin reklam görüntüleme ve dokunmaları);</li>
+      <li>tanılama bilgileri (örneğin çökme ve performans kayıtları).</li>
+    </ul>
+    <p>Google bu verileri kendi politikasına göre işler: <a href="https://policies.google.com/technologies/partner-sites?hl=tr">Google, hizmetlerini kullanan site veya uygulamalardaki bilgileri nasıl kullanır</a>. Bu verileri biz almayız.</p>
+    <h3>Seçimlerin</h3>
+    <p>Yasanın gerektirdiği yerlerde (örneğin Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre) uygulama, reklam istenmeden önce Google'ın onay formuyla iznini sorar; seçimini istediğin zaman Ayarlar → Reklam gizlilik seçenekleri'nden değiştirebilirsin (bu satır, onay formunun geçerli olduğu yerlerde görünür).</p>
+    <p>Reklam kimliğini cihazının ayarlarından sıfırlayabilir, silebilir veya kişiselleştirilmiş reklamları kapatabilirsin: Ayarlar → Google → Tüm hizmetler → Reklamlar'ı (bazı cihazlarda Ayarlar → Gizlilik → Reklamlar) açıp Reklam kimliğini sıfırla veya Reklam kimliğini sil'i seç. Sildikten sonra uygulamalar ve reklam SDK'ları cihazından reklam kimliği alamaz.</p>
     <h3>İzinler</h3>
     <ul>
+      <li><strong>İnternet ve ağ durumu</strong>: yalnızca reklam SDK'sı tarafından reklam yüklemek için kullanılır.</li>
+      <li><strong>Reklam kimliği</strong>: reklam SDK'sı tarafından reklamlar için kullanılır (yukarıya bak).</li>
       <li><strong>Bildirimler</strong> ve <strong>tam ekran bildirimler</strong>: çalan alarmı göstermek ve alarm ekranını kilit ekranının üzerinde açmak için.</li>
       <li><strong>Tam zamanlı alarmlar</strong> (USE_EXACT_ALARM, Android 12'de SCHEDULE_EXACT_ALARM): kurduğun dakikada tam zamanında çalmak için.</li>
       <li><strong>Ön plan hizmeti</strong> ve <strong>uyanık tutma</strong> (wake lock): alarm, sen kapatana kadar çalmaya devam etsin diye.</li>
@@ -71,7 +102,7 @@
       <li><strong>Hareket sensörü</strong>: sallama görevi, ekrandayken sallamaları sayar. Hiçbir şey saklanmaz veya gönderilmez.</li>
     </ul>
     <h3>Çocuklar</h3>
-    <p>Bu uygulama 13 yaşından küçük çocuklara yönelik değildir. Çocuklar dahil hiç kimseden kişisel bilgi toplamaz.</p>
+    <p>Uygulama 13 yaşından küçük çocuklara yönelik değildir.</p>
     <h3>Değişiklikler</h3>
     <p>Bu politika değişirse yeni sürümü, yeni yürürlük tarihiyle bu sayfada yayımlanır.</p>
     <h3>İletişim</h3>

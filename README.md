@@ -57,3 +57,7 @@ Privacy policy for **Pixel Art Maker: Draw Pixels** (com.keremcan534.pixelmaker)
 ## Arrow Puzzle
 
 Privacy policy for **Arrow Puzzle: Slide Them Out** (com.keremcan534.arrowpuzzle): https://keremcan534.github.io/odak-privacy/arrow-puzzle/
+
+## Chroma Mix
+
+Privacy policy for **Chroma Mix: Color Puzzle** (com.keremcan.chromamix): https://keremcan534.github.io/odak-privacy/chroma-mix/
