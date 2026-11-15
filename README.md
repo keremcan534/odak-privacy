@@ -69,3 +69,7 @@ Privacy policy for **Flag Painter: World Flag Quiz** (com.keremcan534.flagpainte
 ## Glowline
 
 Privacy policy for **Glowline: One Line Puzzle** (com.keremcan534.glowline): https://keremcan534.github.io/odak-privacy/glowline/
+
+## Ink Sudoku
+
+Privacy policy for **Ink Sudoku: Classic Puzzles** (com.keremcan534.inksudoku): https://keremcan534.github.io/odak-privacy/ink-sudoku/
