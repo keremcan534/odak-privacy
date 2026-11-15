@@ -61,3 +61,7 @@ Privacy policy for **Arrow Puzzle: Slide Them Out** (com.keremcan534.arrowpuzzle
 ## Chroma Mix
 
 Privacy policy for **Chroma Mix: Color Puzzle** (com.keremcan.chromamix): https://keremcan534.github.io/odak-privacy/chroma-mix/
+
+## Flag Painter
+
+Privacy policy for **Flag Painter: World Flag Quiz** (com.keremcan534.flagpainter): https://keremcan534.github.io/odak-privacy/flag-painter/
