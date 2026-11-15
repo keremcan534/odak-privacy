@@ -65,3 +65,7 @@ Privacy policy for **Chroma Mix: Color Puzzle** (com.keremcan.chromamix): https:
 ## Flag Painter
 
 Privacy policy for **Flag Painter: World Flag Quiz** (com.keremcan534.flagpainter): https://keremcan534.github.io/odak-privacy/flag-painter/
+
+## Glowline
+
+Privacy policy for **Glowline: One Line Puzzle** (com.keremcan534.glowline): https://keremcan534.github.io/odak-privacy/glowline/
