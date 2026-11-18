@@ -73,3 +73,7 @@ Privacy policy for **Glowline: One Line Puzzle** (com.keremcan534.glowline): htt
 ## Ink Sudoku
 
 Privacy policy for **Ink Sudoku: Classic Puzzles** (com.keremcan534.inksudoku): https://keremcan534.github.io/odak-privacy/ink-sudoku/
+
+## Box Sort: Shelf Packing Puzzle (Cargo Panic)
+
+Privacy policy for **Box Sort: Shelf Packing Puzzle** (com.keremcan534.cargopanic): https://keremcan534.github.io/odak-privacy/cargo-panic/
