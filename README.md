@@ -77,3 +77,7 @@ Privacy policy for **Ink Sudoku: Classic Puzzles** (com.keremcan534.inksudoku): 
 ## Box Sort: Shelf Packing Puzzle (Cargo Panic)
 
 Privacy policy for **Box Sort: Shelf Packing Puzzle** (com.keremcan534.cargopanic): https://keremcan534.github.io/odak-privacy/cargo-panic/
+
+## Arrow Words: Tea Break (Çengel Bulmaca: Çay Molası)
+
+Privacy policy for **Arrow Words: Tea Break** (com.keremcan534.arrowwords): https://keremcan534.github.io/odak-privacy/arrow-words/
